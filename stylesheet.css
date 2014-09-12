@@ -62,6 +62,7 @@ table {
 	display: inline-block;
 	content: white;
 	font-size: 18px;
+	z-index: 90;
 }
 
 .leftheader {
@@ -101,6 +102,7 @@ body {
 #cover {
 	display: inline-block;
 	width: 100%;
+	z-index: 10;
 }
 
 #cover img {
